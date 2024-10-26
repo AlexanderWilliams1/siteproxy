@@ -174,10 +174,10 @@ const someHTML = `
         <h3>搜索引擎</h3>
         <hr>
         <div class="websites">
-            <div><a class="website" href="https://www.google.com" target="_blank">Google IPv4</a></div>
+            <div><a class="website" href="https://www.google.co.jp" target="_blank">Google IPv4</a></div>
             <div><a class="website" href="https://ipv6.google.com" target="_blank">Google IPv6</a></div>
             <div><a class="website" href="https://duckduckgo.com" target="_blank">DuckDuckGo</a></div>
-            <div><a class="website" href="https://www.bing.com" target="_blank">Bing</a></div>
+            <div><a class="website" href="https://yandex.com" target="_blank">Yandex</a></div>
         </div>
         <h3>常用网站</h3>
         <hr>
@@ -192,8 +192,9 @@ const someHTML = `
         <h3>新闻网站</h3>
         <hr>
         <div class="websites">
+            <div><a class="website" href="https://www.bbc.com/" target="_blank">BBC</a></div>
             <div><a class="website" href="https://www.voachinese.com/" target="_blank">美国之音</a></div>
-            <div><a class="website" href="https://cn.nytimes.com/" target="_blank">纽约时报</a></div>
+            <div><a class="website" href="https://nytimes.com/" target="_blank">纽约时报</a></div>
             <div><a class="website" href="https://www.reuters.com/" target="_blank">路透社</a></div>
             <div><a class="website" href="https://cn.wsj.com/" target="_blank">华尔街日报</a></div>
             <div><a class="website" href="https://www.dw.com/zh/" target="_blank">德国之声</a></div>
@@ -203,14 +204,6 @@ const someHTML = `
             <div><a class="website" href="https://cnnews.chosun.com/" target="_blank">朝鲜日报</a></div>
             <div><a class="website" href="https://std.stheadline.com/" target="_blank">星島日報</a></div>
         </div>
-        <h3>海外论坛</h3>
-        <hr>
-        <div class="websites">
-            <div><a class="website" href="https://www.wenxuecity.com/" target="_blank">文学城</a></div>
-            <div><a class="website" href="https://www.6parknews.com/" target="_blank">留园网</a></div>
-            <div><a class="website" href="https://www.iask.ca/" target="_blank">加拿大家园</a></div>
-        </div>
-        <div class="footer">
             <p>本站内容源自互联网, 如有内容侵犯了你的权益, 请联系删除相关内容, 联系邮箱: <a href="mailto:netptop@gmail.com">netptop@gmail.com</a></p>
             <p id="copyright"></p>
         </div>
